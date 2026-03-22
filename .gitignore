@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# Database files
+*.db
+
+# Raw match data (large folder)
+ipl_json/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
